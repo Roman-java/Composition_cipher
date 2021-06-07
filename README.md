@@ -1,1 +1,1 @@
-# Composition_cipher
+Composition cipher implementation
